@@ -36,7 +36,7 @@
 2.  Run:
 
     ``` bash
-    python main.py
+    python APP.py
     ```
 
 3.  Open browser and visit:
